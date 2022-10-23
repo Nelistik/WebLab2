@@ -11,4 +11,4 @@
   
   
   
-  <div style="text-align: right"> Работу выполнил: студент группы ИДБ-20-08, Денисов О.М. </div>
+  <div style="text-align: right"> Денисов О.М. </div>
