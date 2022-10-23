@@ -11,4 +11,4 @@
   
   
   
-  <div style="text-align: right"> Денисов О.М. </div>
+  <div style="text-align: right">Работу выполнил: Денисов О.М.</div>
